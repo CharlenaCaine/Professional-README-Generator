@@ -1,0 +1,25 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "A README generator",
+  "main": "main",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CharlenaCaine/Professional-README-Generator.git"
+  },
+  "author": "Charlena Caine",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CharlenaCaine/Professional-README-Generator/issues"
+  },
+  "homepage": "https://github.com/CharlenaCaine/Professional-README-Generator#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  }
+}
+
+
